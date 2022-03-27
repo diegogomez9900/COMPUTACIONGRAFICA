@@ -1,0 +1,57 @@
+[info]
+img:rayo3.png
+mapa:..a..
+     ..r..
+     iycxd
+     ..s..
+     ..b..
+
+[.]
+tipo: vacio
+fil:6
+col:2
+
+[r]
+tipo: rayoar
+fil:4
+col:0
+
+[s]
+tipo: rayoab
+fil:4
+col:0
+
+[y]
+tipo: rayoi
+fil:0
+col:1
+
+[x]
+tipo: rayod
+fil:0
+col:1
+
+[c]
+tipo: centro
+fil:0
+col:2
+
+[a]
+tipo: puntaar
+fil:4
+col:4
+
+[b]
+tipo: puntaab
+fil:5
+col:3
+
+[i]
+tipo: puntai
+fil:0
+col:0
+
+[d]
+tipo: puntad
+fil:0
+col:4

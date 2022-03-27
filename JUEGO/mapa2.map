@@ -1,0 +1,30 @@
+[info]
+img:muros.png
+mapa:....a..aa..aa.aa..aa
+     #.a##.a##..##a.##.a#
+     aa...a...a...aa..a.a
+     #..##a.##.a##..##aa#
+     .aa..a...a..aa..a..a
+     #aa##aa##aa##..##aa#
+     .aa....aa..aaa.a.aa.
+     #..##..##..##a.##..#
+     ..aa.aa.a.a..a..aaa.
+     #.a##..##aa##a.##..#
+     ..a..aa.aa.aa..aa...
+     #aa##..##..##.a##a.#
+     ...aa...aa.....aa..a
+
+[.]
+tipo:vacio
+fil:3
+col:17
+
+[#]
+tipo:muro
+fil:0
+col:0
+
+[a]
+tipo:bloque
+fil:0
+col:1
